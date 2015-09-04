@@ -1,0 +1,109 @@
+extDB2: Version: 65
+extDB2: https://github.com/Torndeco/extDB2
+extDB2: Windows Debug Version
+
+Message: All development for extDB2 is done on a Linux Dedicated Server
+Message: If you would like to Donate to extDB2 Development
+Message: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=2SUEFTGABTAM2
+Message: Also leave a message if there is any particular feature you would like to see added.
+Message: Thanks for all the people that have donated.
+Message: Torndeco: 20/02/15
+
+
+extDB2: Found extdb-conf.ini
+extDB2: Detected 8 Cores, Setting up 6 Worker Threads
+
+
+[11:51:34:568009 --4:00] [Thread 12064] extDB2: Input from Server: 9:VERSION
+[11:51:34:568009 --4:00] [Thread 12064] extDB2: Output to Server: 65
+[11:51:34:569010 --4:00] [Thread 12064] extDB2: Input from Server: 9:ADD_DATABASE:exile
+[11:51:34:569010 --4:00] [Thread 12064] extDB2: Database Type: MySQL
+[11:51:34:581016 --4:00] [Thread 12064] extDB2: Database Session Pool Started
+[11:51:34:581016 --4:00] [Thread 12064] extDB2: Output to Server: [1]
+[11:51:34:581016 --4:00] [Thread 12064] extDB2: Input from Server: 9:ADD_DATABASE_PROTOCOL:exile:SQL_CUSTOM_V2:574087:exile
+[11:51:34:582016 --4:00] [Thread 12064] extDB2: SQL_CUSTOM_V2: Loading Template Filename: F:\SteamLibrary\SteamApps\common\Arma 3\@ExileServer\extDB\sql_custom_v2\exile.ini
+[11:51:34:582016 --4:00] [Thread 12064] extDB2: SQL_CUSTOM_V2: Version 8 Detected, Latest Version 12 Available
+[11:51:34:583017 --4:00] [Thread 12064] extDB2: Output to Server: [1]
+[11:51:34:583017 --4:00] [Thread 12064] extDB2: Input from Server: 9:TIME
+[11:51:34:583017 --4:00] [Thread 12064] extDB2: Output to Server: [1,[2015, 9, 02, 15, 51]]
+[11:51:34:583017 --4:00] [Thread 12064] extDB2: Input from Server: 9:LOCK
+[11:51:34:583017 --4:00] [Thread 12064] extDB2: Output to Server: [1]
+[11:51:34:708081 --4:00] [Thread 12064] extDB2: Input from Server: 0:574087:loadTerriotryIdPage:0:100
+[11:51:34:708081 --4:00] [Thread 12064] extDB2: SQL_CUSTOM_V2: Trace: UniqueID: 1 Input: loadTerriotryIdPage:0:100
+[11:51:34:715083 --4:00] [Thread 12064] extDB2: SQL_CUSTOM_V2: Trace: UniqueID: 1 Result: [1,[]]
+[11:51:34:715083 --4:00] [Thread 12064] extDB2: Output to Server: [1,[]]
+[11:51:34:715083 --4:00] [Thread 12064] extDB2: Input from Server: 0:574087:loadConstructionIdPage:0:100
+[11:51:34:715083 --4:00] [Thread 12064] extDB2: SQL_CUSTOM_V2: Trace: UniqueID: 1 Input: loadConstructionIdPage:0:100
+[11:51:34:715083 --4:00] [Thread 12064] extDB2: SQL_CUSTOM_V2: Trace: UniqueID: 1 Result: [1,[]]
+[11:51:34:715083 --4:00] [Thread 12064] extDB2: Output to Server: [1,[]]
+[11:51:34:715083 --4:00] [Thread 12064] extDB2: Input from Server: 0:574087:loadVehicleIdPage:0:100
+[11:51:34:715083 --4:00] [Thread 12064] extDB2: SQL_CUSTOM_V2: Trace: UniqueID: 1 Input: loadVehicleIdPage:0:100
+[11:51:34:716083 --4:00] [Thread 12064] extDB2: SQL_CUSTOM_V2: Trace: UniqueID: 1 Result: [1,[]]
+[11:51:34:716083 --4:00] [Thread 12064] extDB2: Output to Server: [1,[]]
+[11:51:34:716083 --4:00] [Thread 12064] extDB2: Input from Server: 0:574087:loadContainerIdPage:0:100
+[11:51:34:716083 --4:00] [Thread 12064] extDB2: SQL_CUSTOM_V2: Trace: UniqueID: 1 Input: loadContainerIdPage:0:100
+[11:51:34:716083 --4:00] [Thread 12064] extDB2: SQL_CUSTOM_V2: Trace: UniqueID: 1 Result: [1,[]]
+[11:51:34:716083 --4:00] [Thread 12064] extDB2: Output to Server: [1,[]]
+[11:51:48:148808 --4:00] [Thread 12064] extDB2: Input from Server: 9:TIME
+[11:51:48:148808 --4:00] [Thread 12064] extDB2: Output to Server: [1,[2015, 9, 02, 15, 51]]
+[11:52:11:856677 --4:00] [Thread 12064] extDB2: Input from Server: 0:574087:isKnownAccount:76561198116813162
+[11:52:11:856677 --4:00] [Thread 12064] extDB2: SQL_CUSTOM_V2: Trace: UniqueID: 1 Input: isKnownAccount:76561198116813162
+[11:52:11:856677 --4:00] [Thread 12064] extDB2: SQL_CUSTOM_V2: Trace: UniqueID: 1 Result: [1,[[true]]]
+[11:52:11:856677 --4:00] [Thread 12064] extDB2: Output to Server: [1,[[true]]]
+[11:52:11:856677 --4:00] [Thread 12064] extDB2: Input from Server: 1:574087:startAccountSession:76561198116813162:Derek
+[11:52:11:857677 --4:00] [Thread 12064] extDB2: Output to Server: 
+[11:52:11:857677 --4:00] [Thread 7696] extDB2: SQL_CUSTOM_V2: Trace: UniqueID: 1 Input: startAccountSession:76561198116813162:Derek
+[11:52:11:860679 --4:00] [Thread 7696] extDB2: SQL_CUSTOM_V2: Trace: UniqueID: 1 Result: [1,[]]
+[11:52:14:388944 --4:00] [Thread 12064] extDB2: Input from Server: 0:574087:hasAlivePlayer:76561198116813162
+[11:52:14:388944 --4:00] [Thread 12064] extDB2: SQL_CUSTOM_V2: Trace: UniqueID: 1 Input: hasAlivePlayer:76561198116813162
+[11:52:14:388944 --4:00] [Thread 12064] extDB2: SQL_CUSTOM_V2: Trace: UniqueID: 1 Result: [1,[[false]]]
+[11:52:14:388944 --4:00] [Thread 12064] extDB2: Output to Server: [1,[[false]]]
+[11:52:18:019766 --4:00] [Thread 12064] extDB2: Input from Server: 0:574087:getAccountStats:76561198116813162
+[11:52:18:019766 --4:00] [Thread 12064] extDB2: SQL_CUSTOM_V2: Trace: UniqueID: 1 Input: getAccountStats:76561198116813162
+[11:52:18:020764 --4:00] [Thread 12064] extDB2: SQL_CUSTOM_V2: Trace: UniqueID: 1 Result: [1,[[0,0,0,0,"",""]]]
+[11:52:18:020764 --4:00] [Thread 12064] extDB2: Output to Server: [1,[[0,0,0,0,"",""]]]
+[11:52:18:093800 --4:00] [Thread 12064] extDB2: Input from Server: 0:574087:createPlayer:76561198116813162:Derek
+[11:52:18:093800 --4:00] [Thread 12064] extDB2: SQL_CUSTOM_V2: Trace: UniqueID: 1 Input: createPlayer:76561198116813162:Derek
+[11:52:18:095801 --4:00] [Thread 12064] extDB2: SQL_CUSTOM_V2: Error StatementException: MySQL: [MySQL]: [Comment]: mysql_stmt_execute error	[mysql_stmt_error]: Field 'hitpoint_head' doesn't have a default value	[mysql_stmt_errno]: 1364	[mysql_stmt_sqlstate]: HY000	[statemnt]: INSERT INTO player SET account_uid = ?, name = ?, spawned_at = NOW()
+[11:52:18:095801 --4:00] [Thread 12064] extDB2: SQL_CUSTOM_V2: Wiping Statements + Session
+[11:52:18:095801 --4:00] [Thread 12064] extDB2: SQL_CUSTOM_V2: Error: UniqueID: 1 Input String: createPlayer:76561198116813162:Derek
+[11:52:18:095801 --4:00] [Thread 12064] extDB2: Output to Server: [0,"Error Statement Exception"]
+[11:52:58:078817 --4:00] [Thread 12064] extDB2: Input from Server: 1:574087:endAccountSession:76561198116813162
+[11:52:58:078817 --4:00] [Thread 12064] extDB2: Output to Server: 
+[11:52:58:078817 --4:00] [Thread 7696] extDB2: SQL_CUSTOM_V2: Trace: UniqueID: 1 Input: endAccountSession:76561198116813162
+[11:52:58:079818 --4:00] [Thread 12064] extDB2: Input from Server: 1:574087:updatePlayer:Biton Bouras:1:0:0:100:100:0:1:0:0:0:0:0:0:13237.2:11705.3:0.001297:["ItemMap","ItemCompass","ItemWatch","ItemRadio"]::[]:[]:[]::G_Squares_Tinted:["","","",""]::::[]::["","","",""]::["","","",""]::[]:[]:[]::[]:[]:[]:-1
+[11:52:58:079818 --4:00] [Thread 12064] extDB2: Output to Server: 
+[11:52:58:079818 --4:00] [Thread 15184] extDB2: SQL_CUSTOM_V2: Trace: UniqueID: 1 Input: updatePlayer:Biton Bouras:1:0:0:100:100:0:1:0:0:0:0:0:0:13237.2:11705.3:0.001297:["ItemMap","ItemCompass","ItemWatch","ItemRadio"]::[]:[]:[]::G_Squares_Tinted:["","","",""]::::[]::["","","",""]::["","","",""]::[]:[]:[]::[]:[]:[]:-1
+[11:52:58:081818 --4:00] [Thread 15184] extDB2: SQL_CUSTOM_V2: Trace: UniqueID: 1 Result: [1,[]]
+[11:52:58:085820 --4:00] [Thread 7696] extDB2: SQL_CUSTOM_V2: Trace: UniqueID: 1 Result: [1,[]]
+[11:53:57:342485 --4:00] [Thread 12064] extDB2: Input from Server: 0:574087:isKnownAccount:76561198116813162
+[11:53:57:342485 --4:00] [Thread 12064] extDB2: SQL_CUSTOM_V2: Trace: UniqueID: 1 Input: isKnownAccount:76561198116813162
+[11:53:57:343486 --4:00] [Thread 12064] extDB2: SQL_CUSTOM_V2: Trace: UniqueID: 1 Result: [1,[[true]]]
+[11:53:57:343486 --4:00] [Thread 12064] extDB2: Output to Server: [1,[[true]]]
+[11:53:57:343486 --4:00] [Thread 12064] extDB2: Input from Server: 1:574087:startAccountSession:76561198116813162:Derek
+[11:53:57:343486 --4:00] [Thread 12064] extDB2: Output to Server: 
+[11:53:57:343486 --4:00] [Thread 7696] extDB2: SQL_CUSTOM_V2: Trace: UniqueID: 1 Input: startAccountSession:76561198116813162:Derek
+[11:53:57:353490 --4:00] [Thread 7696] extDB2: SQL_CUSTOM_V2: Trace: UniqueID: 1 Result: [1,[]]
+[11:53:59:364496 --4:00] [Thread 12064] extDB2: Input from Server: 0:574087:hasAlivePlayer:76561198116813162
+[11:53:59:364496 --4:00] [Thread 12064] extDB2: SQL_CUSTOM_V2: Trace: UniqueID: 1 Input: hasAlivePlayer:76561198116813162
+[11:53:59:364496 --4:00] [Thread 12064] extDB2: SQL_CUSTOM_V2: Trace: UniqueID: 1 Result: [1,[[false]]]
+[11:53:59:364496 --4:00] [Thread 12064] extDB2: Output to Server: [1,[[false]]]
+[11:54:01:830734 --4:00] [Thread 12064] extDB2: Input from Server: 0:574087:getAccountStats:76561198116813162
+[11:54:01:830734 --4:00] [Thread 12064] extDB2: SQL_CUSTOM_V2: Trace: UniqueID: 1 Input: getAccountStats:76561198116813162
+[11:54:01:830734 --4:00] [Thread 12064] extDB2: SQL_CUSTOM_V2: Trace: UniqueID: 1 Result: [1,[[0,0,0,0,"",""]]]
+[11:54:01:830734 --4:00] [Thread 12064] extDB2: Output to Server: [1,[[0,0,0,0,"",""]]]
+[11:54:01:839736 --4:00] [Thread 12064] extDB2: Input from Server: 0:574087:createPlayer:76561198116813162:Derek
+[11:54:01:839736 --4:00] [Thread 12064] extDB2: SQL_CUSTOM_V2: Trace: UniqueID: 1 Input: createPlayer:76561198116813162:Derek
+[11:54:01:839736 --4:00] [Thread 12064] extDB2: SQL_CUSTOM_V2: Error StatementException: MySQL: [MySQL]: [Comment]: mysql_stmt_execute error	[mysql_stmt_error]: Field 'hitpoint_head' doesn't have a default value	[mysql_stmt_errno]: 1364	[mysql_stmt_sqlstate]: HY000	[statemnt]: INSERT INTO player SET account_uid = ?, name = ?, spawned_at = NOW()
+[11:54:01:839736 --4:00] [Thread 12064] extDB2: SQL_CUSTOM_V2: Wiping Statements + Session
+[11:54:01:839736 --4:00] [Thread 12064] extDB2: SQL_CUSTOM_V2: Error: UniqueID: 1 Input String: createPlayer:76561198116813162:Derek
+[11:54:01:839736 --4:00] [Thread 12064] extDB2: Output to Server: [0,"Error Statement Exception"]
+[11:54:42:035860 --4:00] [Thread 12064] extDB2: Input from Server: 1:574087:endAccountSession:76561198116813162
+[11:54:42:035860 --4:00] [Thread 12064] extDB2: Output to Server: 
+[11:54:42:035860 --4:00] [Thread 7696] extDB2: SQL_CUSTOM_V2: Trace: UniqueID: 1 Input: endAccountSession:76561198116813162
+[11:54:42:036859 --4:00] [Thread 12064] extDB2: Input from Server: 1:574087:updatePlayer:Homer Petridis:1:0:0:100:100:0:1:0:0:0:0:0:0:13237.2:11705.3:0.001297:["ItemMap","ItemCompass","ItemWatch","ItemRadio"]::[]:[]:[]::G_Squares_Tinted:["","","",""]::::[]::["","","",""]::["","","",""]::[]:[]:[]::[]:[]:[]:-1
+[11:54:42:036859 --4:00] [Thread 12064] extDB2: Output to Server: 
+[11:54:42:036859 --4:00] [Thread 15184] extDB2: SQL_CUSTOM_V2: Trace: UniqueID: 1 Input: updatePlayer:Homer Petridis:1:0:0:100:100:0:1:0:0:0:0:0:0:13237.2:11705.3:0.001297:["ItemMap","ItemCompass","ItemWatch","ItemRadio"]::[]:[]:[]::G_Squares_Tinted:["","","",""]::::[]::["","","",""]::["","","",""]::[]:[]:[]::[]:[]:[]:-1
+[11:54:42:036859 --4:00] [Thread 15184] extDB2: SQL_CUSTOM_V2: Trace: UniqueID: 1 Result: [1,[]]
+[11:54:42:039860 --4:00] [Thread 7696] extDB2: SQL_CUSTOM_V2: Trace: UniqueID: 1 Result: [1,[]]
+[11:56:48:211025 --4:00] [Thread 12064] extDB2: Stopping ...
