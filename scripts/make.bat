@@ -4,6 +4,7 @@ SET ProjectHome=%~dp0..\
 SET Server=%~dp0..\@ExileServer\addons\
 echo %ProjectHome%
 
+
 call %PBO% %Server%exile_server
 call %PBO% %Server%exile_server_config
 call %PBO% %Server%a3_dms
