@@ -190,7 +190,7 @@ class FSM
        "			// Config Radius! :)" \n
        "			// Hardcoded to 80 now" \n
        "			// getNumber(configFile >> ""CfgSettings"" >> ""LootSettings"" >>  ""despawnRadius"")" \n
-       "			if !([getPosATL _x, 80] call ExileServer_util_position_isPlayerNearby) then" \n
+       "			if !([getPosATL _x, 500] call ExileServer_util_position_isPlayerNearby) then" \n
        "			{" \n
        "				_objectsToDelete pushBack _x;" \n
        "			};" \n
